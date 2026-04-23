@@ -1,13 +1,3 @@
----
-layout: post
-title:  "Lowest Common Ancestor"
-date: 2017-07-27 21:50:00 +0700
-tags:
-  - algorithm
-no-post-nav: 0
-comments: 1
----
-
 ##### **Bài gốc**
 [Codechef TALCA](https://www.codechef.com/problems/TALCA)
 
