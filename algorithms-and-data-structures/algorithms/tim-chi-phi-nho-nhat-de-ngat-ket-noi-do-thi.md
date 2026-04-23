@@ -1,13 +1,3 @@
----
-layout: post
-title:  "Tìm chi phí nhỏ nhất để ngắt kết nối đồ thị"
-date: 2017-07-19 23:15:00 +0700
-tags:
-  - algorithm
-no-post-nav: 0
-comments: 1
----
-
 ##### **Bài gốc**
 [Codeforces 437C](http://codeforces.com/problemset/problem/437/C)
 
